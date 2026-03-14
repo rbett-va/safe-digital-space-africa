@@ -6,7 +6,7 @@
 
 *Empowering African women and girls with the tools, knowledge, and community to navigate the digital world safely and confidently.*
 
-[![Website](https://img.shields.io/badge/Website-safespace-teal?style=for-the-badge)](https://safe-digital-space-africa.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-safespace-teal?style=for-the-badge)](https://safe-digital-space-africa-five.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rbett-va/safe-digital-space-africa.git)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
@@ -126,7 +126,7 @@ Our mission is to close the digital safety gap by providing African women with t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/christinemirimba/safe-digital-space-africa.git
+   git clone https://github.com/rbett-va/safe-digital-space-africa.git
    cd safe-digital-space-africa
    ```
 
@@ -281,7 +281,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Contact
 
-- **Website**: [https://safe-digital-space-africa.vercel.app/](https://safe-digital-space-africa.vercel.app/)
+- **Website**: [https://safe-digital-space-africa-five.vercel.app/](https://safe-digital-space-africa-five.vercel.app/)
 - **GitHub**: [https://github.com/rbett-va/safe-digital-space-africa.git](https://github.com/rbett-va/safe-digital-space-africa.git)
 - **Pitch Deck**: [View on Canva](https://www.canva.com/design/DAG6A9LZsFY/IekQmhD0cskxexSc5X29cg/edit?utm_content=DAG6A9LZsFY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -317,8 +317,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Together, we build safer digital spaces.**
 
-[![Star this repo](https://img.shields.io/github/stars/christinemirimba/safe-digital-space-africa?style=social)](https://github.com/christinemirimba/safe-digital-space-africa)
-[![Follow on GitHub](https://img.shields.io/github/followers/christinemirimba?style=social)](https://github.com/christinemirimba)
+[![Star this repo](https://img.shields.io/github/stars/rbett-va/safe-digital-space-africa?style=social)](https://github.com/rbett-va/safe-digital-space-africa.git)
+[![Follow on GitHub](https://img.shields.io/github/followers/rbett-va?style=social)](https://github.com/rbett-va)
 
 ---
 
