@@ -5,7 +5,10 @@
   "installCommand": "npm install",
   "devCommand": "npm run dev",
   "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
+    {
+      "src": "^/(?!api/|.*\\.(js|mjs|css|png|jpg|jpeg|gif|svg|webp|ico|map|json|txt|woff|woff2|eot|ttf)$).*$",
+      "dest": "/index.html"
+    }
   ],
   "headers": [
     {
