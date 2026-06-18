@@ -78,7 +78,7 @@ export const Footer = () => {
             <h3 className="text-lg font-semibold font-display">Connect With Us</h3>
             <div className="flex space-x-4">
               <a
-                href="https://www.facebook.com/christine.kwamboka.39904"
+                href="https://www.facebook.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white/10 p-2 rounded-full transition-colors hover:bg-white/20 hover:text-white"
@@ -87,7 +87,7 @@ export const Footer = () => {
                 <Facebook className="h-5 w-5" />
               </a>
               <a
-                href="https://www.instagram.com/christinemirimba/?hl=en"
+                href="https://www.instagram.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white/10 p-2 rounded-full transition-colors hover:bg-white/20 hover:text-white"
@@ -96,7 +96,7 @@ export const Footer = () => {
                 <Instagram className="h-5 w-5" />
               </a>
               <a
-                href="https://x.com/Tinnah_Mirimba?t=nZPhrf1oB28G1s6LyyrssA&s=09"
+                href="https://x.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white/10 p-2 rounded-full transition-colors hover:bg-white/20 hover:text-white"
@@ -105,7 +105,7 @@ export const Footer = () => {
                 <Twitter className="h-5 w-5" />
               </a>
               <a
-                href="https://www.linkedin.com/in/christine-mirimba-51202a26b/"
+                href="https://www.linkedin.com/in/reuben-bett-a6942161/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white/10 p-2 rounded-full transition-colors hover:bg-white/20 hover:text-white"
